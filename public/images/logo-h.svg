@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_2" data-name="katman 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100.74 210.42">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 141.78px;
+      }
+
+      .cls-2 {
+        font-family: Inter-ExtraLightBETA, Inter;
+        font-weight: 200;
+      }
+
+      .cls-2, .cls-3 {
+        letter-spacing: .08em;
+      }
+
+      .cls-4 {
+        letter-spacing: .06em;
+      }
+
+      .cls-4, .cls-5, .cls-3 {
+        font-family: Inter-Bold, Inter;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        letter-spacing: .08em;
+      }
+
+      .cls-6 {
+        fill: #d76364;
+      }
+    </style>
+  </defs>
+  <g id="katman_1" data-name="katman 1">
+    <g>
+      <polygon class="cls-6" points="0 79.71 98.14 79.71 0 177.83 0 79.71"/>
+      <polygon class="cls-6" points="116.83 204.18 19.4 204.18 116.83 106.75 116.83 204.18"/>
+      <path class="cls-6" d="M0,0h151.88c56.39,0,102.11,45.71,102.11,102.11h0c0,56.39-45.72,102.11-102.11,102.11h-2.66V47.37H0V0Z"/>
+    </g>
+    <text class="cls-1" transform="translate(280.01 152.42)"><tspan class="cls-3" x="0" y="0">Dat</tspan><tspan class="cls-4" x="274.49" y="0">r</tspan><tspan class="cls-5" x="344.43" y="0">a </tspan><tspan class="cls-2" x="482.26" y="0">CRM</tspan></text>
+  </g>
+</svg>
