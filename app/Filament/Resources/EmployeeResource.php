@@ -20,6 +20,7 @@ class EmployeeResource extends Resource
     protected static ?string $modelLabel = 'Çalışan';
     protected static ?string $pluralModelLabel = 'Çalışanlar';
     protected static ?string $navigationIcon = 'heroicon-o-user-group';
+    protected static ?int    $navigationSort  = 3;
 
     /* =======================
         FORM

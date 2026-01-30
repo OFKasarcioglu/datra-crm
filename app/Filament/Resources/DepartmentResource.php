@@ -15,12 +15,13 @@ use App\Filament\Resources\DepartmentResource\RelationManagers\PositionsRelation
 class DepartmentResource extends Resource
 {
     protected static ?string $model = Department::class;
-
+    protected static ?int $navigationSort = 1;
     protected static ?string $navigationGroup = 'İnsan Kaynakları';
     protected static ?string $navigationLabel = 'Departmanlar';
     protected static ?string $modelLabel = 'Departman';
     protected static ?string $pluralModelLabel = 'Departmanlar';
     protected static ?string $navigationIcon  = 'heroicon-o-building-office';
+
 
     /* =======================
         FORM

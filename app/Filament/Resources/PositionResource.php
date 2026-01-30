@@ -20,6 +20,7 @@ class PositionResource extends Resource
     protected static ?string $modelLabel = 'Pozisyon';
     protected static ?string $pluralModelLabel = 'Pozisyonlar';
     protected static ?string $navigationIcon  = 'heroicon-o-identification';
+    protected static ?int    $navigationSort  = 2;
 
     /* =======================
         FORM
